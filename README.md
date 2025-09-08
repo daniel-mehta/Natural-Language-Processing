@@ -8,5 +8,5 @@ Repository for AIGC 5301 coursework.
 - Named Entity Recognition (NER) and text summarization
 
 ## Contents
-- `Assignments/`, `Labs/`  
+- `Assignments/`, `Lectures/`  
 - Final project notebooks covering sequence models
